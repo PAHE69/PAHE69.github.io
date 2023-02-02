@@ -1,3 +1,36 @@
 body {
-    color:blue;
+    background: #38598b; 
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: #e7eaf6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.first-color { 
+	background: #e7eaf6; 
+}
+	
+.second-color { 
+	background: #a2a8d3; 
+}
+
+.third-color { 
+	background: #38598b; 
+}
+
+.fourth-color { 
+	background: #113f67; 
+}
+
+.container1 {
+    padding: 15px;
+}
+
+.container2 {
+    margin: 15px;
+    padding: 15px;
+    background: #113f67; 
+    color: #e7eaf6;
+    font-size: 15px;
 }
