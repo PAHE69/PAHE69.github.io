@@ -23,13 +23,17 @@ body {
 	background: #113f67; 
 }
 
+.roundCorners20 {
+    border-radius: 20px;
+}
+
 .container1 {
-    padding: 15px;
+    padding: 20px;
 }
 
 .container2 {
-    margin: 15px;
-    padding: 15px;
+    margin: 20px;
+    padding: 20px;
     background: #113f67; 
     color: #e7eaf6;
     font-size: 15px;
